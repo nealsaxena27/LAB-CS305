@@ -1,4 +1,4 @@
-# LAB-CS207
+# LAB-CS305
 
 This repository has been made for the lab work of course CS305 for fifth semester.
 
